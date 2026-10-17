@@ -13,3 +13,5 @@ No-nonsense portable power station and solar generator reviews for US campers, R
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+[About & Editorial Policy](/about.html)
