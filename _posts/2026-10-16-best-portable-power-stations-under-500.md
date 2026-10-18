@@ -155,7 +155,7 @@ Rockpals has been a budget staple for years, and their mid-size units around the
 | [Anker SOLIX C1000](https://www.amazon.com/s?k=Anker%20SOLIX%20C1000) | ~$449–$549 | Apartment and condo owners | Fast recharge, solid app, 1,800W output |
 | [Vtoman Jump 1000](https://www.amazon.com/s?k=Vtoman%20Jump%201000) | ~$399–$499 | Road-trippers and commuters | Built-in car jump starter, LiFePO4 |
 | [Renogy Lycan 5000](https://www.amazon.com/s?k=Renogy%20Lycan%205000) | ~$499+ | DIY solar builders | Solar ecosystem integration |
-| Rockpals 500W series[Comparison table](https://www.amazon.com/s?k=Comparison%20table) | ~$299–$449 | Budget buyers and tent campers | Low price, lightweight, small-device focus |
+| [Rockpals 500W series](https://www.amazon.com/s?k=Rockpals%20500W%20series) | ~$299–$449 | Budget buyers and tent campers | Low price, lightweight, small-device focus |
 
 ## Final Verdict
 
