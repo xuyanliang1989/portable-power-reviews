@@ -133,7 +133,7 @@ You pull into a dispersed campsite at dusk, the kind with no hookups and no cell
 
 | Product | Price | Best For | Key Strength |
 |---|---|---|---|
-| Jackery Explorer 1000 v2[Comparison table](https://www.amazon.com/s?k=Comparison%20table) | $599–$799 | Weekend car campers | Balanced capacity and portability |
+| [Jackery Explorer 1000 v2](https://www.amazon.com/s?k=Jackery%20Explorer%201000%20v2) | $599–$799 | Weekend car campers | Balanced capacity and portability |
 | [EcoFlow Delta 2](https://www.amazon.com/s?k=EcoFlow%20Delta%202) | $699–$999 | Van-lifers, overlanders | 1,800W output with fast solar |
 | [BLUETTI AC180](https://www.amazon.com/s?k=BLUETTI%20AC180) | $599–$899 | Boondockers, tailgaters | Output per dollar |
 | [Anker SOLIX C1000](https://www.amazon.com/s?k=Anker%20SOLIX%20C1000) | $699–$999 | Quality-focused campers | Build quality and support |
