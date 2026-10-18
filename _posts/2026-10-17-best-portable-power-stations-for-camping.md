@@ -143,7 +143,7 @@ You pull into a dispersed campsite at dusk, the kind with no hookups and no cell
 
 ## Final Verdict
 
-For most campers, the **EcoFlow Delta 2**[EcoFlow Delta 2](https://www.amazon.com/s?k=EcoFlow%20Delta%202) is the top pick — it has the output to run real appliances, the solar input to stay off-grid, and the app monitoring that makes overnight fridge duty stress-free. If you want to spend less and mostly charge devices, the **EcoFlow River 3 Plus**[EcoFlow River 3 Plus](https://www.amazon.com/s?k=EcoFlow%20River%203%20Plus) is the budget pick: light, affordable, and genuinely useful for tent camping and short trips. If you need maximum output per dollar and don't mind a rougher app, the **BLUETTI AC180**[BLUETTI AC180](https://www.amazon.com/s?k=BLUETTI%20AC180) is a close runner-up worth a look.
+For most campers, the **[EcoFlow Delta 2](https://www.amazon.com/s?k=EcoFlow%20Delta%202)** is the top pick — it has the output to run real appliances, the solar input to stay off-grid, and the app monitoring that makes overnight fridge duty stress-free. If you want to spend less and mostly charge devices, the **[EcoFlow River 3 Plus](https://www.amazon.com/s?k=EcoFlow%20River%203%20Plus)** is the budget pick: light, affordable, and genuinely useful for tent camping and short trips. If you need maximum output per dollar and don't mind a rougher app, the **[BLUETTI AC180](https://www.amazon.com/s?k=BLUETTI%20AC180)** is a close runner-up worth a look.
 
 ## FAQ
 
