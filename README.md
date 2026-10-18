@@ -4,5 +4,6 @@ No-nonsense portable power station and solar generator reviews for US campers, R
 
 **Visit the site:** https://xuyanliang1989.github.io/portable-power-reviews/
 
-Part of a small review network:/n- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
+Part of a small review network:
+- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
 - [Fishing Gear Reviews](https://xuyanliang1989.github.io/fishing-gear-reviews/)
