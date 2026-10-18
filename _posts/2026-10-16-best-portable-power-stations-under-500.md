@@ -5,6 +5,9 @@ title: "Best Portable Power Stations Under $500"
 {% raw %}
 # Best Portable Power Stations Under $500
 
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
+
+
 It's 9 p.m., the grid just dropped, and your phone is at 8%. The CPAP machine your partner needs to sleep is beeping its low-battery warning, and the little flashlight you found in the junk drawer is already dim. That's the moment most people start shopping for a portable power station — not when they're browsing specs for fun, but when the lights go out and the battery bank in their pocket suddenly feels useless. The good news is that you don't need to spend $2,000 on a whole-home battery to get through a night or a weekend. Under $500 there are real, capable units that can run a fridge for a day, keep a laptop and router alive through a multi-hour outage, or power a campsite coffee setup. The tricky part is that this price band is crowded with inflated watt-hour claims and confusing "peak vs. continuous" numbers. This guide cuts through that.
 
 ## What to look for
@@ -146,13 +149,13 @@ Rockpals has been a budget staple for years, and their mid-size units around the
 
 | Product | Price | Best For | Key Strength |
 |---|---|---|---|
-| EcoFlow Delta 2 {{PRODUCT_LINK}} | ~$499–$599 | Homeowners wanting one do-everything unit | 1,800W output, 1,024Wh LiFePO4, fast recharge |
-| BLUETTI AC180 {{PRODUCT_LINK}} | ~$449–$549 | Van-lifers and RVers | 1,152Wh, Power Lifting mode, 1,800W output |
-| Jackery Explorer 1000 v2 {{PRODUCT_LINK}} | ~$499–$599 | Car campers and casual preppers | Lighter chassis, strong support, 3,000W surge |
-| Anker SOLIX C1000 {{PRODUCT_LINK}} | ~$449–$549 | Apartment and condo owners | Fast recharge, solid app, 1,800W output |
-| Vtoman Jump 1000 {{PRODUCT_LINK}} | ~$399–$499 | Road-trippers and commuters | Built-in car jump starter, LiFePO4 |
-| Renogy Lycan 5000 {{PRODUCT_LINK}} | ~$499+ | DIY solar builders | Solar ecosystem integration |
-| Rockpals 500W series {{PRODUCT_LINK}} | ~$299–$449 | Budget buyers and tent campers | Low price, lightweight, small-device focus |
+| [EcoFlow Delta 2](https://www.amazon.com/s?k=EcoFlow%20Delta%202) | ~$499–$599 | Homeowners wanting one do-everything unit | 1,800W output, 1,024Wh LiFePO4, fast recharge |
+| [BLUETTI AC180](https://www.amazon.com/s?k=BLUETTI%20AC180) | ~$449–$549 | Van-lifers and RVers | 1,152Wh, Power Lifting mode, 1,800W output |
+| Jackery Explorer 1000 v2[Comparison table](https://www.amazon.com/s?k=Comparison%20table) | ~$499–$599 | Car campers and casual preppers | Lighter chassis, strong support, 3,000W surge |
+| [Anker SOLIX C1000](https://www.amazon.com/s?k=Anker%20SOLIX%20C1000) | ~$449–$549 | Apartment and condo owners | Fast recharge, solid app, 1,800W output |
+| [Vtoman Jump 1000](https://www.amazon.com/s?k=Vtoman%20Jump%201000) | ~$399–$499 | Road-trippers and commuters | Built-in car jump starter, LiFePO4 |
+| [Renogy Lycan 5000](https://www.amazon.com/s?k=Renogy%20Lycan%205000) | ~$499+ | DIY solar builders | Solar ecosystem integration |
+| Rockpals 500W series[Comparison table](https://www.amazon.com/s?k=Comparison%20table) | ~$299–$449 | Budget buyers and tent campers | Low price, lightweight, small-device focus |
 
 ## Final Verdict
 
@@ -176,4 +179,8 @@ Most units in this range accept 200–500W of solar input, and the Delta 2 and A
 
 **What's the difference between continuous watts and surge watts?**
 Continuous watts is what the station can output indefinitely, while surge (or peak) watts is a brief higher output that lasts only a second or two to cover motor startup. A fridge might run at 150W continuous but surge to 600W when the compressor kicks on, so you need a station whose surge rating clears that startup spike.
+
+---
+
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
 {% endraw %}
