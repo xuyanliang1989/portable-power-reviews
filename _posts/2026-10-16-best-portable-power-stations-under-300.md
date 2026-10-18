@@ -5,11 +5,14 @@ title: "Best Portable Power Stations Under $300"
 {% raw %}
 # Best Portable Power Stations Under $300
 
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
+
+
 It's 9 p.m. when the grid drops. Your phone is at 18%, the router is dead, and your kid's white-noise machine just went silent. You don't need a whole-home battery system — you need something under $300 that can keep the essentials alive until the lights come back. That's the sweet spot this guide is about: power stations cheap enough to justify buying "just in case," but capable enough to actually run a fan, a laptop, a CPAP, a mini fridge, or a string of camp lights. Below are seven real, currently available units worth comparing in 2026, with honest pros, cons, and who each one is actually for.
 
 ---
 
-## 1. Jackery Explorer 300 Plus {{PRODUCT_LINK}}
+## 1. Jackery Explorer 300 Plus[1 Jackery Explorer 300 Plus](https://www.amazon.com/s?k=1%20Jackery%20Explorer%20300%20Plus)
 
 **Price range:** $249–$299
 
@@ -28,7 +31,7 @@ The Explorer 300 Plus is the updated version of Jackery's long-running 300-class
 
 ---
 
-## 2. EcoFlow River 3 {{PRODUCT_LINK}}
+## 2. EcoFlow River 3[2 EcoFlow River 3](https://www.amazon.com/s?k=2%20EcoFlow%20River%203)
 
 **Price range:** $199–$259
 
@@ -47,7 +50,7 @@ The River 3 is EcoFlow's entry-level LiFePO4 station, and it's the one I'd point
 
 ---
 
-## 3. BLUETTI EB3A {{PRODUCT_LINK}}
+## 3. BLUETTI EB3A[3 BLUETTI EB3A](https://www.amazon.com/s?k=3%20BLUETTI%20EB3A)
 
 **Price range:** $199–$249
 
@@ -66,7 +69,7 @@ BLUETTI's EB3A is the value pick in this class, and it's been a staple for a cou
 
 ---
 
-## 4. Anker SOLIX C300 {{PRODUCT_LINK}}
+## 4. Anker SOLIX C300[4 Anker SOLIX C300](https://www.amazon.com/s?k=4%20Anker%20SOLIX%20C300)
 
 **Price range:** $199–$249
 
@@ -85,7 +88,7 @@ Anker's SOLIX C300 is a 288Wh LiFePO4 station with a 300W AC output and a 600W s
 
 ---
 
-## 5. Vtoman Jump 300 {{PRODUCT_LINK}}
+## 5. Vtoman Jump 300[5 Vtoman Jump 300](https://www.amazon.com/s?k=5%20Vtoman%20Jump%20300)
 
 **Price range:** $189–$239
 
@@ -104,7 +107,7 @@ Vtoman is one of the lesser-known brands that's earned a following for offering 
 
 ---
 
-## 6. Rockpals 300W Portable Power Station {{PRODUCT_LINK}}
+## 6. Rockpals 300W Portable Power Station[6 Rockpals 300W Portable Power Station](https://www.amazon.com/s?k=6%20Rockpals%20300W%20Portable%20Power%20Station)
 
 **Price range:** $179–$229
 
@@ -123,7 +126,7 @@ Rockpals has been making budget-friendly power stations for years, and its 300W 
 
 ---
 
-## 7. Goal Zero Yeti 200X {{PRODUCT_LINK}}
+## 7. Goal Zero Yeti 200X[7 Goal Zero Yeti 200X](https://www.amazon.com/s?k=7%20Goal%20Zero%20Yeti%20200X)
 
 **Price range:** $249–$299
 
@@ -146,13 +149,13 @@ Goal Zero's Yeti 200X is a 187Wh station with a 120W AC inverter — the smalles
 
 | Product | Price | Best For | Key Strength |
 |---|---|---|---|
-| Jackery Explorer 300 Plus {{PRODUCT_LINK}} | $249–$299 | Campers and casual preppers | LiFePO4 battery, simple app, pass-through charging |
-| EcoFlow River 3 {{PRODUCT_LINK}} | $199–$259 | First-time buyers, apartments | ~1-hour fast recharge, quiet operation |
-| BLUETTI EB3A {{PRODUCT_LINK}} | $199–$249 | Remote workers, small preppers | 600W AC output, 100W USB-C, UPS mode |
-| Anker SOLIX C300 {{PRODUCT_LINK}} | $199–$249 | Van-lifers, CPAP users | Polished build, strong app, 288Wh |
-| Vtoman Jump 300 {{PRODUCT_LINK}} | $189–$239 | Budget campers, overlanders | Best capacity-per-dollar, solar input |
-| Rockpals 300W {{PRODUCT_LINK}} | $179–$229 | Tailgaters, casual users | Lowest price, simple layout |
-| Goal Zero Yeti 200X {{PRODUCT_LINK}} | $249–$299 | Photographers, day-trippers | Lightest, best build quality |
+| [Jackery Explorer 300 Plus](https://www.amazon.com/s?k=Jackery%20Explorer%20300%20Plus) | $249–$299 | Campers and casual preppers | LiFePO4 battery, simple app, pass-through charging |
+| [EcoFlow River 3](https://www.amazon.com/s?k=EcoFlow%20River%203) | $199–$259 | First-time buyers, apartments | ~1-hour fast recharge, quiet operation |
+| [BLUETTI EB3A](https://www.amazon.com/s?k=BLUETTI%20EB3A) | $199–$249 | Remote workers, small preppers | 600W AC output, 100W USB-C, UPS mode |
+| [Anker SOLIX C300](https://www.amazon.com/s?k=Anker%20SOLIX%20C300) | $199–$249 | Van-lifers, CPAP users | Polished build, strong app, 288Wh |
+| [Vtoman Jump 300](https://www.amazon.com/s?k=Vtoman%20Jump%20300) | $189–$239 | Budget campers, overlanders | Best capacity-per-dollar, solar input |
+| [Rockpals 300W](https://www.amazon.com/s?k=Rockpals%20300W) | $179–$229 | Tailgaters, casual users | Lowest price, simple layout |
+| [Goal Zero Yeti 200X](https://www.amazon.com/s?k=Goal%20Zero%20Yeti%20200X) | $249–$299 | Photographers, day-trippers | Lightest, best build quality |
 
 ---
 
@@ -180,4 +183,8 @@ A typical CPAP without a humidifier draws around 30–60W, so a 280Wh station li
 
 **Are these stations safe to leave plugged in all the time?**
 Most modern LiFePO4 stations, including the EcoFlow River 3 and BLUETTI EB3A, are designed to handle pass-through charging and can stay plugged in indefinitely without damage — the battery management system prevents overcharging. That said, if you're using a station in UPS mode to back up a router or modem, it's fine to leave it connected permanently. Just avoid storing any lithium station in a hot car or direct sun for long periods, since heat is the main thing that shortens battery life.
+
+---
+
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
 {% endraw %}
