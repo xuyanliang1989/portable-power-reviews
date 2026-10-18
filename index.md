@@ -15,3 +15,8 @@ No-nonsense portable power station and solar generator reviews for US campers, R
 </ul>
 
 [About & Editorial Policy](/about.html)
+
+## Our Other Sites
+
+- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
+- [Fishing Gear Reviews](https://xuyanliang1989.github.io/fishing-gear-reviews/)
