@@ -151,7 +151,7 @@ Rockpals has been a budget staple for years, and their mid-size units around the
 |---|---|---|---|
 | [EcoFlow Delta 2](https://www.amazon.com/s?k=EcoFlow%20Delta%202) | ~$499–$599 | Homeowners wanting one do-everything unit | 1,800W output, 1,024Wh LiFePO4, fast recharge |
 | [BLUETTI AC180](https://www.amazon.com/s?k=BLUETTI%20AC180) | ~$449–$549 | Van-lifers and RVers | 1,152Wh, Power Lifting mode, 1,800W output |
-| Jackery Explorer 1000 v2[Comparison table](https://www.amazon.com/s?k=Comparison%20table) | ~$499–$599 | Car campers and casual preppers | Lighter chassis, strong support, 3,000W surge |
+| [Jackery Explorer 1000 v2](https://www.amazon.com/s?k=Jackery%20Explorer%201000%20v2) | ~$499–$599 | Car campers and casual preppers | Lighter chassis, strong support, 3,000W surge |
 | [Anker SOLIX C1000](https://www.amazon.com/s?k=Anker%20SOLIX%20C1000) | ~$449–$549 | Apartment and condo owners | Fast recharge, solid app, 1,800W output |
 | [Vtoman Jump 1000](https://www.amazon.com/s?k=Vtoman%20Jump%201000) | ~$399–$499 | Road-trippers and commuters | Built-in car jump starter, LiFePO4 |
 | [Renogy Lycan 5000](https://www.amazon.com/s?k=Renogy%20Lycan%205000) | ~$499+ | DIY solar builders | Solar ecosystem integration |
