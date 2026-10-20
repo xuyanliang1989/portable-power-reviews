@@ -171,8 +171,8 @@ No — power stations with capacities above 100Wh are generally prohibited in bo
 
 **Related reading:**
 
-- [Best Portable Power Stations Under $300](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/16/2026-10-16-best-portable-power-stations-under-300.html)
-- [Best Portable Power Stations for RV Living](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/18/2026-10-18-best-portable-power-stations-for-rv-living.html)
-- [Best Portable Power Stations for CPAP Machines](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/19/2026-10-19-best-portable-power-stations-for-cpap-machines.html)
+- [Best Portable Power Stations Under $300](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/16/best-portable-power-stations-under-300.html)
+- [Best Portable Power Stations for RV Living](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/18/best-portable-power-stations-for-rv-living.html)
+- [Best Portable Power Stations for CPAP Machines](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/19/best-portable-power-stations-for-cpap-machines.html)
 
 *Also explore our other gear guides: [Camping Gear Reviews](https://xuyanliang1989.github.io/) · [Fishing Gear Reviews](https://xuyanliang1989.github.io/fishing-gear-reviews/)*
