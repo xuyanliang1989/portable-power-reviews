@@ -173,8 +173,8 @@ Most manufacturers specify an operating and charging temperature range, and char
 
 **Related reading:**
 
-- [Best Portable Power Stations for Camping](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/17/2026-10-17-best-portable-power-stations-for-camping.html)
-- [Best Solar Generators for Home Backup](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/18/2026-10-18-best-solar-generators-for-home-backup.html)
-- [Best Portable Power Stations for CPAP Machines](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/19/2026-10-19-best-portable-power-stations-for-cpap-machines.html)
+- [Best Portable Power Stations for Camping](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/17/best-portable-power-stations-for-camping.html)
+- [Best Solar Generators for Home Backup](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/18/best-solar-generators-for-home-backup.html)
+- [Best Portable Power Stations for CPAP Machines](https://xuyanliang1989.github.io/portable-power-reviews/2026/10/19/best-portable-power-stations-for-cpap-machines.html)
 
 *Also explore our other gear guides: [Camping Gear Reviews](https://xuyanliang1989.github.io/) · [Fishing Gear Reviews](https://xuyanliang1989.github.io/fishing-gear-reviews/)*
